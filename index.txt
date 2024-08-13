@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<title>Fresno HN
+</title>
+
+<head>
+<meta name="description" content="Servicios de jardinería y paisajismo">
+<meta name="keyword" content="Los mejores servicios de jardinería y paisajismo aquí">
+</head>
+
+<body bgcolor="#C0FACC" text="#000000"> 
+<p><h1><font color="#1E8449" face="Lucida sans"><center>Bienvenido a Fresno HN.</p></center></h1>
+
+<p><font color="000000" face="Lucida sans">Fresno, es una empresa dedicada a transformar y mantener espacios verdes con un enfoque en la sostenibilidad y el diseño creativo. Nos especializamos en la creación de jardines personalizados, mantenimiento de áreas verdes, paisajismo, y proyectos de jardinería vertical. Nuestro equipo de expertos en botánica y diseño paisajístico trabaja con pasión para convertir cualquier espacio en un oasis natural, utilizando técnicas innovadoras y respetuosas con el medio ambiente. Ya sea un pequeño jardín urbano o una amplia área residencial, en Fresno hacemos realidad su visión de un entorno verde y armonioso.</p>
+
+<center><table width="950"><tr><td>
+<img src="foto.jpg"><img src="paisajismo1.jpg"></center>
+</td></tr></table></center>
+
+<h1><font color="#1E8449" face="Lucida sans">Fresno HN</h1></font>
+<h2>Fresno HN</h2>
+<h3>Fresno HN</h3>
+<h4>Fresno HN</h4>
+<h5>Fresno HN</h5>
+<h6>Fresno HN</h6>
+
+<center><table border="0" width="90%" bgcolor="#FAF9B2"></center>
+<tr>
+<td colspan="3"><center><h1><font color="#1E8449" face="Lucida sans">Fresno HN</h1></font></center></td>
+</tr>
+
+<tr>
+<td face="calibri"><h4><center><p>Nuestra Misión:</h4></center>
+<h4>En Fresno, nuestra misión es crear y mantener espacios verdes que reflejen la belleza natural y promuevan la sostenibilidad. Nos comprometemos a ofrecer servicios de jardinería y paisajismo de alta calidad, combinando creatividad, conocimientos botánicos y prácticas respetuosas con el medio ambiente. Nuestro objetivo es mejorar la calidad de vida de nuestros clientes y contribuir a un entorno más verde y saludable para las generaciones futuras.
+
+<h4><center>Nuestra Visión:</h4></center>
+<h4>Ser la empresa líder en jardinería y paisajismo, reconocida por transformar espacios en ecosistemas sostenibles y estéticamente impactantes. Aspiramos a inspirar una mayor conexión con la naturaleza a través de soluciones innovadoras y ecológicas que embellecen y revitalizan entornos urbanos y rurales, contribuyendo al bienestar de las personas y al cuidado del planeta.</h4>
+</td></h4></p>
+
+<td colspan="2"><img src="paisajismo2.jpg"></td>
+</tr>
+
+</table>
+<center>
+<a href="index.html">Inicio</a> -
+<a href="nosotros.html">Nosotros</a> -
+<a href="servicios.html">Servicios</a> -
+<a href="contactanos.html">Contáctanos</a> <br>Copyright 2024, Cotizaciones Vía email a 
+<a href="mailto:mail.google.com">nicolagos.1199@gmail.com</a>
+</center>
+
+</body>
+
+</html>
+
